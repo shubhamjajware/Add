@@ -1,0 +1,5 @@
+demo java
+add
+sub
+multiplication
+division
